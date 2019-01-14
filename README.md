@@ -9,7 +9,7 @@ Instructions:
 
 (2) The AC-DC converter requires minimal standoffs from the PCB. These standoffs should be conductive so that the PCB ground meets the converter ground.
 
-(3) While you can use a 2-prong AC power cable, I've used a 3-prong (grounded) AC power cable in the application as suggested by @leonkiriliuk. Strip the outer shielding and expose the hot (white), neutral (black), and ground (green) wires. Cut a section of the hot and neutral and connect those from the original power switch to the AC-DC converter. Attached the AC cable hot and neutral to the other leads on the original power switch. Attached the ground wire to the AC-DC converter's ground post.
+(3) While you can use a 2-prong AC power cable, I've used a 3-prong (grounded) AC power cable in the application as suggested by @leonkiriliuk. Strip the outer shielding and expose the hot (white), neutral (black), and ground (green) wires. Cut a section of the hot and neutral and connect those from the original power switch to the AC-DC converter. If you have a 3D printer, print the enclosed X68K_AC_Cable_Strain_Relief.stl file and slip it over the power cable; this is a strain relief that will "plug the hole" of the PSU case. Attach the AC cable hot and neutral to the other leads on the original power switch. Attached the ground wire to the AC-DC converter's ground post.
 
 (4) Plug in your PicoPSU and attached the +12VDC and ground to the corresponding terminals on the AC-DC converter.
 
