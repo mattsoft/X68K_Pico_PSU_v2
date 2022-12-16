@@ -1,4 +1,4 @@
-# X68K_Pico_PSU_v2
+# X68K_Pico_PSU_v3
 SHARP X68000 PicoPSU Power Adapter v3
 
 This project builds on the original X68K_EZ_Pico_PSU by moving the AC-DC converter inside the original X68000 PSU case, making for a very clean, OEM look.
